@@ -9,10 +9,10 @@ Understand, set up, and use a VPN to enhance privacy and network security.
    * Installed client: Downloaded and installed the ProtonVPN desktop app.
 
   * Checked Initial IP Address:
-      ![Initial IP Check](Screenshot1.png) Dashboard Before Connecting:**
-      ![ProtonVPN App - Not Connected](Screenshot2.png) VPN Server (US):**
-      ![ProtonVPN App - Connected](Screenshot3.png) IP Address:**
-      ![Changed IP Address](Screenshot4.png) Effect:**
+      ![Initial IP Check](screenshots/Screenshot1.png) Dashboard Before Connecting:
+      ![ProtonVPN App - Not Connected](screenshots/Screenshot2.png) VPN Server (US):
+      ![ProtonVPN App - Connected](screenshots/Screenshot3.png) IP Address:
+      ![Changed IP Address](screenshots/Screenshot4.png) Effect:
 
     * My IP address and location changed from India to the United States, confirming VPN is active and traffic is encrypted.
 
